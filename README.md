@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tintuspurti
-- 👀 I’m interested in data Aanlyst 
+- 👀 I’m interested in data Analyst 
 - 🌱 I’m currently learning python, SQL, excel ...
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
