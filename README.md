@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tintuspurti
-- 👀 I’m interested in 3D ANIMATION
-- 🌱 I’m currently learning BLENDER SOFTWARE
+- 👀 I’m interested in data Aanlyst 
+- 🌱 I’m currently learning python, SQL, excel ...
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
 
