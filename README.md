@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tintuspurti
-- 👀 I’m interested in data Analyst 
-- 🌱 I’m currently learning python, SQL, excel ...
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me ...
+- 👀 I’m interested in CS
+- 🌱 I’m currently learning Python NUMPY
+- skill -Linux, SQL, AWS EC2, C, 
+- 📫 Tintuspurti970@gmail.com
 
 <!---
 tintuspurti/tintuspurti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
